@@ -1,7 +1,13 @@
 # 👋 Hey, I'm KHUT Lihong
 
-I’m a passionate software engineer with deep expertise in **mobile app development**, **web technologies**, and **data analysis**.  
-I am the **Founder and CEO of [sFutureApps](https://sfutureapps.com)** — a digital solutions company committed to helping businesses and organizations in Cambodia and beyond embrace technology that drives results.
+Hi, I’m Lihong. I build software with a simple goal: make technology easier to use.  
+I believe a great product starts with understanding the people who use it.  
+I work across **mobile apps**, **web technologies**, and **data analysis**.  
+I care about the details, how something looks, how it works, and how it feels.  
+For me, simplicity takes thought, patience, and a willingness to keep improving.  
+As **Founder and CEO of [sFutureApps](https://sfutureapps.com/)**, I help businesses turn ideas into useful products.  
+Based in Cambodia, I build with local needs in mind and possibilities beyond borders.  
+I want to create things that people enjoy using and can depend on every day.
 
 ---
 
